@@ -43,7 +43,7 @@ body {
 .jumbotron {
     height: 80vh;
     background-image: url(/images/family.png);
-    background-color: lightblue;
+    background-color: #3462c7;
     background-size: cover;
     color: white;
     border-radius: 0;
